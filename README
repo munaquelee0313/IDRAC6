@@ -1,4 +1,5 @@
 Use this as an example on how to start the virtual console without the need of Java Web Start or accessing it from the web interface.
+You can use the user and password that you use for the web interface.
 
 You need an old JRE... I used 1.7.0_80 from the Server JRE package. 
 You don't need to install it, just extract it or copy the files in "jre" folder.
